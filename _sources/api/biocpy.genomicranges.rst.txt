@@ -1,0 +1,10 @@
+biocpy.genomicranges package
+============================
+
+Module contents
+---------------
+
+.. automodule:: biocpy.genomicranges
+   :members:
+   :undoc-members:
+   :show-inheritance:

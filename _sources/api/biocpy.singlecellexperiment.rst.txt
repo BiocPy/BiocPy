@@ -1,0 +1,10 @@
+biocpy.singlecellexperiment package
+===================================
+
+Module contents
+---------------
+
+.. automodule:: biocpy.singlecellexperiment
+   :members:
+   :undoc-members:
+   :show-inheritance:

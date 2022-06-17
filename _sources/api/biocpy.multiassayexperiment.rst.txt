@@ -1,0 +1,10 @@
+biocpy.multiassayexperiment package
+===================================
+
+Module contents
+---------------
+
+.. automodule:: biocpy.multiassayexperiment
+   :members:
+   :undoc-members:
+   :show-inheritance:

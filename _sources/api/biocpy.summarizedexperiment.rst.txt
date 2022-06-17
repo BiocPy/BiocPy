@@ -1,0 +1,10 @@
+biocpy.summarizedexperiment package
+===================================
+
+Module contents
+---------------
+
+.. automodule:: biocpy.summarizedexperiment
+   :members:
+   :undoc-members:
+   :show-inheritance:

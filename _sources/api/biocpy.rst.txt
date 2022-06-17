@@ -1,0 +1,21 @@
+biocpy package
+==============
+
+Subpackages
+-----------
+
+.. toctree::
+   :maxdepth: 4
+
+   biocpy.genomicranges
+   biocpy.multiassayexperiment
+   biocpy.singlecellexperiment
+   biocpy.summarizedexperiment
+
+Module contents
+---------------
+
+.. automodule:: biocpy
+   :members:
+   :undoc-members:
+   :show-inheritance:

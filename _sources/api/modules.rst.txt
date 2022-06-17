@@ -1,0 +1,7 @@
+biocpy
+======
+
+.. toctree::
+   :maxdepth: 4
+
+   biocpy
