@@ -1,9 +1,9 @@
 # BiocPy
 
-Interface to all [BiocPy](https://github.com/BiocPy) Packages. The package itself does not provide any methods or functionality on its own. It provides an 
+Installs all [BiocPy](https://github.com/BiocPy) packages. The package itself does not provide any functionality on its own. It provides an 
 
-- easier way to install all the relevant packages
-- an easier interface to access the base data representations or classes
+- easier way to install all ***core*** packages
+- an interface to access the base data representations or classes
 
 ## Install
 
